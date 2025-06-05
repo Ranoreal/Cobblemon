@@ -1,4 +1,4 @@
-# Cobblemon
+# Cooblemoon NIGGA
 A very totaly cozy cobblemon server
 
   
