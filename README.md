@@ -1,5 +1,6 @@
 # Cooblemoon NIGGA
 A very totaly cozy cobblemon server
+(Pack name by dylan lol)
 
   
 Server IP: shewlzy.playit.gg
