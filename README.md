@@ -13,7 +13,7 @@ Download [Modrinth](https://modrinth.com/app) (A easy to use launcher for the mo
 
 Download [Prism Launcher](https://prismlauncher.org/download/windows/) (Alternative Launcher, More Flexible)
 
-Download [Java 21](https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.exe) (This specific version and up Required!!)
+Download [Java 21](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html) (This specific version and up Required!!)
 
 Download the [Modpack Here](https://github.com/Ranoreal/Cobblemon/releases/tag/1.1.0M)
 
